@@ -53,7 +53,7 @@ public partial class Form2 : Form
       
         Width = 1200;
         Height = 700;
-        Text = "Space Wars - Fase 2";
+        Text = "Space Wars: Light vs Darkness - Fase 2";
         StartPosition = FormStartPosition.CenterScreen;
         FormBorderStyle = FormBorderStyle.FixedSingle;
         MaximizeBox = false;
@@ -147,7 +147,7 @@ public partial class Form2 : Form
     private void CriarHUD()
     {
   
-        lblFase.Text = "FASE 2: CONFRONTO COM NYRA";
+        lblFase.Text = "Nyra - Monstro de trevas";
         lblFase.ForeColor = Color.Cyan;
         lblFase.BackColor = Color.Transparent;
         lblFase.Font = new Font("Calibri", 14, FontStyle.Bold);
