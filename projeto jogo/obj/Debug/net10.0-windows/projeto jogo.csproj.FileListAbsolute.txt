@@ -1,0 +1,17 @@
+D:\C#\projeto jogo\obj\Debug\net10.0-windows\projeto jogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\projeto jogo\obj\Debug\net10.0-windows\projeto jogo.AssemblyInfoInputs.cache
+D:\C#\projeto jogo\obj\Debug\net10.0-windows\projeto jogo.AssemblyInfo.cs
+D:\C#\projeto jogo\obj\Debug\net10.0-windows\projeto jogo.csproj.CoreCompileInputs.cache
+D:\C#\projeto jogo\bin\Debug\net10.0-windows\projeto jogo.exe
+D:\C#\projeto jogo\bin\Debug\net10.0-windows\projeto jogo.deps.json
+D:\C#\projeto jogo\bin\Debug\net10.0-windows\projeto jogo.runtimeconfig.json
+D:\C#\projeto jogo\bin\Debug\net10.0-windows\projeto jogo.dll
+D:\C#\projeto jogo\bin\Debug\net10.0-windows\projeto jogo.pdb
+D:\C#\projeto jogo\obj\Debug\net10.0-windows\projeto jogo.dll
+D:\C#\projeto jogo\obj\Debug\net10.0-windows\refint\projeto jogo.dll
+D:\C#\projeto jogo\obj\Debug\net10.0-windows\projeto jogo.pdb
+D:\C#\projeto jogo\obj\Debug\net10.0-windows\projeto jogo.genruntimeconfig.cache
+D:\C#\projeto jogo\obj\Debug\net10.0-windows\ref\projeto jogo.dll
+D:\C#\projeto jogo\bin\Debug\net10.0-windows\img\fundo2.png
+D:\C#\projeto jogo\bin\Debug\net10.0-windows\img\nave_inimiga_2.png
+D:\C#\projeto jogo\bin\Debug\net10.0-windows\img\nave_jogador.png

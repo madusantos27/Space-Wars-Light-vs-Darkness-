@@ -1,0 +1,14 @@
+D:\C#\projeto jogo\bin\Debug\net10.0\projeto jogo.exe
+D:\C#\projeto jogo\bin\Debug\net10.0\projeto jogo.deps.json
+D:\C#\projeto jogo\bin\Debug\net10.0\projeto jogo.runtimeconfig.json
+D:\C#\projeto jogo\bin\Debug\net10.0\projeto jogo.dll
+D:\C#\projeto jogo\bin\Debug\net10.0\projeto jogo.pdb
+D:\C#\projeto jogo\obj\Debug\net10.0\projeto jogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\projeto jogo\obj\Debug\net10.0\projeto jogo.AssemblyInfoInputs.cache
+D:\C#\projeto jogo\obj\Debug\net10.0\projeto jogo.AssemblyInfo.cs
+D:\C#\projeto jogo\obj\Debug\net10.0\projeto jogo.csproj.CoreCompileInputs.cache
+D:\C#\projeto jogo\obj\Debug\net10.0\projeto jogo.dll
+D:\C#\projeto jogo\obj\Debug\net10.0\refint\projeto jogo.dll
+D:\C#\projeto jogo\obj\Debug\net10.0\projeto jogo.pdb
+D:\C#\projeto jogo\obj\Debug\net10.0\projeto jogo.genruntimeconfig.cache
+D:\C#\projeto jogo\obj\Debug\net10.0\ref\projeto jogo.dll
